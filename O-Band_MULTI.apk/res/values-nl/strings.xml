@@ -438,7 +438,7 @@
   <string name="add_device_bind_success_tip_1">Verbinding succesvol</string>
   <string name="add_device_bind_success_tip_2">In de O-Band, op training instellen!</string>
   <string name="add_device_bind_success_done">Begin om van start te gaan</string>
-  <string name="add_device_connect_fail_tip_1">O-Band gevonden</string>
+  <string name="add_device_connect_fail_tip_1">Geen O-Band gevonden</string>
   <string name="add_device_connect_fail_tip_2">Houdt mobiele telefoon dicht bij O-Band</string>
   <string name="add_device_connect_fail_tip_3">En zo veel mogelijk van andere telefoons en O-Banden</string>
   <string name="add_device_connect_fail_retry">Nog een keer</string>

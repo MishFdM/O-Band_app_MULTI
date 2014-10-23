@@ -394,11 +394,11 @@
   <string name="str_chart_current_day">Today</string>
   <string name="str_chart_7_day">Week</string>
   <string name="str_chart_31_day">Month</string>
-  <string name="str_chart_sleep_waste">Fall asleep</string>
+  <string name="str_chart_sleep_waste">Doze off</string>
   <string name="str_chart_sleep_effi">Efficiency</string>
   <string name="str_chart_sleep_total_time">Total</string>
   <string name="str_chart_sleep_effi_pre">Efficiency:</string>
-  <string name="str_chart_sleep_waste_pre">Fall asleep:</string>
+  <string name="str_chart_sleep_waste_pre">Doze off:</string>
   <string name="str_chart_sleep_total_pre">Total:</string>
   <string name="str_chart_sleep_awake">Up</string>
   <string name="str_chart_sleep_turn_over">Restless</string>
@@ -438,7 +438,7 @@
   <string name="add_device_bind_success_tip_1">Connection successful</string>
   <string name="add_device_bind_success_tip_2">Into the O-Band, put him to exercise!</string>
   <string name="add_device_bind_success_done">Start the experience</string>
-  <string name="add_device_connect_fail_tip_1">Found O-Band</string>
+  <string name="add_device_connect_fail_tip_1">No O-Band found</string>
   <string name="add_device_connect_fail_tip_2">Please try to keep the phone close to O-band</string>
   <string name="add_device_connect_fail_tip_3">And as far as possible from other phones or O-Bands</string>
   <string name="add_device_connect_fail_retry">One more time</string>
