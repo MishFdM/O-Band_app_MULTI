@@ -75,7 +75,7 @@
   <string name="sapi_done">Fertig\u0020</string>
   <string name="sapi_smscode_resent">\"Aktivierungscode erneut senden\" klicken</string>
   <string name="sapi_smscode_resent_after_60s">In %s Sekunden nach Klicken auf Aktivierung erneut versuchen</string>
-  <string name="sapi_not_get_smscode">Hast du den Aktivierungscode nicht erhalten?</string>
+  <string name="sapi_not_get_smscode">Du hast den Aktivierungscode nicht erhalten?</string>
   <string name="sapi_getting_smscode">Aktivierungscode ausgegeben...</string>
   <string name="sapi_cannot_regist">Registrierung vorübergehend nicht möglich</string>
   <string name="sapi_login_account_tip">In mein Konto anmelden:</string>
@@ -83,7 +83,7 @@
   <string name="sapi_filluname_tip">Der angezeigte Benutzername kann nach dem Festlegen nicht mehr geändert werden</string>
   <string name="sapi_sure">OK</string>
   <string name="sapi_filluname">Benutzernamen eingeben</string>
-  <string name="sapi_filling">To make up for ...</string>
+  <string name="sapi_filling">Wieder gut machen ...</string>
   <string name="sapi_force_offline_failed">Abmeldung erzwingen fehlgeschlagen</string>
   <string name="sapi_relogin_failed">Erneute Anmeldung fehlgeschlagen</string>
   <string name="sapi_tpl_not_permit">TPL und App-ID ist nicht durch Loga berechtigt</string>
@@ -350,9 +350,9 @@
   <string name="str_notification_text_sport">O-Band ist im Sport-Modus</string>
   <string name="str_notification_text_phone_sport">Telefon merkt, wenn es vom O-Band getrennt wird</string>
   <string name="str_notification_text_mute">O-Band ist im Schlafmodus, Telefon ist stumm geschaltet</string>
-  <string name="str_notification_text_low_battery">O-Band Energie auf %s gefallen, bitte aufladen</string>
+  <string name="str_notification_text_low_battery">O-Band Akkuladung weniger als %s, bitte aufladen</string>
   <string name="str_low_battery_dialog_title">O-Band Batterieanzeige</string>
-  <string name="str_low_battery_dialog_positive">Notiz</string>
+  <string name="str_low_battery_dialog_positive">OK</string>
   <string name="agent_expire_title">Angemeldet</string>
   <string name="agent_expire_description1">Your account on</string>
   <string name="agent_expire_description2">Bitte ändere dein Passwort, um dich mit einem anderen Telefon bei dulife anzumelden</string>
@@ -409,11 +409,11 @@
   <string name="system_net_location_tips_content">Welcome by dulife, the application is completely free to use, it will generate data traffic over a datanetwork or Wi-Fi network data connection, please consult your local operator for any fee; Baidu protect user privacy and is a basic policy for the benefit for you provide follow-motion data analysis services, the application will collect information including your location, including personal and mobile phone-related information</string>
   <string name="oauth_Str">Konto-Login</string>
   <string name="has_olife_Str">Habe bereits ein O-Band</string>
-  <string name="registerOlifeStr">Hier klicken, um dein eigenes O-Band zu haben</string>
+  <string name="registerOlifeStr">Hier klicken, wenn du noch kein O-Band besitzt</string>
   <string name="str_buttom_connect_tips">Unbound phone, via mobile phone to record your exercise data</string>
   <string name="str_try_later">Später versuchen</string>
   <string name="str_try_again">Erneut verbinden</string>
-  <string name="my_service">Meine Dienste</string>
+  <string name="my_service">Weitere Ressourcen</string>
   <string name="sign_logo_text">From</string>
   <string name="nfc_replace_title">Tips</string>
   <string name="nfc_replace_content">Do you want to replace a current NFC</string>
@@ -444,7 +444,7 @@
   <string name="add_device_connect_fail_retry">One more time</string>
   <string name="add_device_bind_fail_tip_1">Connection fails, the possible causes</string>
   <string name="add_device_bind_fail_tip_2">1. O-Band zu weit vom Telefon entfernt</string>
-  <string name="add_device_bind_fail_tip_3">Lösung: Bringe das O-Band und das Telefon möglichst nah an einander (< 1m)</string>
+  <string name="add_device_bind_fail_tip_3">Lösung: Bringe das O-Band und das Telefon möglichst nah an einander (max. 1 Meter)</string>
   <string name="add_device_bind_fail_tip_4">2. Gibt es andere Telefone oder falsch ein falsch verbundenes O-Band</string>
   <string name="add_device_bind_fail_tip_5">Lösung: Bewege das O-Band und das Telefon, welche du verbinden willst, weg von anderen Geräten</string>
   <string name="add_device_bind_fail_tip_6">3. Akkuladung sinkt unter 40%</string>

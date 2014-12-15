@@ -350,9 +350,9 @@
   <string name="str_notification_text_sport">O-Band is actief sport</string>
   <string name="str_notification_text_phone_sport">Unbound O-Band zal worden opgenomen via de telefoon</string>
   <string name="str_notification_text_mute">O-Band is in de slaapstand, mobiele telefoon in de Stille modus</string>
-  <string name="str_notification_text_low_battery">O-Band power zakt naar %s, A.U.B. opladen</string>
+  <string name="str_notification_text_low_battery">O-Band power beneden %s, A.U.B. opladen</string>
   <string name="str_low_battery_dialog_title">O-Band batterij indicatie</string>
-  <string name="str_low_battery_dialog_positive">Note</string>
+  <string name="str_low_battery_dialog_positive">OK</string>
   <string name="agent_expire_title">Ingelogd</string>
   <string name="agent_expire_description1">Uw account op</string>
   <string name="agent_expire_description2">In een andere mobiele telefoon om aan te melden bij dulife, zoals andere operaties, wijzig uw wachtwoord zo spoedig mogelijk</string>

@@ -350,9 +350,9 @@
   <string name="str_notification_text_sport">O-Band is in sport mode</string>
   <string name="str_notification_text_phone_sport">Phone does recognize when O-Band is unbound</string>
   <string name="str_notification_text_mute">O-Band is in sleep mode, mobile phone into silent mode</string>
-  <string name="str_notification_text_low_battery">O-Band power dropped to %s, please recharge</string>
+  <string name="str_notification_text_low_battery">O-Band power dropped below %s, please recharge</string>
   <string name="str_low_battery_dialog_title">O-Band battery indicator</string>
-  <string name="str_low_battery_dialog_positive">Note</string>
+  <string name="str_low_battery_dialog_positive">OK</string>
   <string name="agent_expire_title">Logged in</string>
   <string name="agent_expire_description1">Your account on</string>
   <string name="agent_expire_description2">Please change your password to login to dulife with another phone</string>

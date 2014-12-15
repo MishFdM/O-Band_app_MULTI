@@ -352,7 +352,7 @@
   <string name="str_notification_text_mute">O-Band er i søvntilstand, sætter mobiltelefon til lydløs</string>
   <string name="str_notification_text_low_battery">O-Band har kun %s strøm. Du skal genoplade</string>
   <string name="str_low_battery_dialog_title">O-Band-batteriindikator</string>
-  <string name="str_low_battery_dialog_positive">Bemærk</string>
+  <string name="str_low_battery_dialog_positive">OK</string>
   <string name="agent_expire_title">Logget ind</string>
   <string name="agent_expire_description1">Din konto på</string>
   <string name="agent_expire_description2">For at logge på dulife på en anden mobiltelefon for andre handlinger, skal du ændre din adgangskode hurtigst muligt</string>

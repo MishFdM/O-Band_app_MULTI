@@ -182,7 +182,7 @@
   <string name="version">Wersja testowa</string>
   <string name="about">Informacje</string>
   <string name="kekeLogin">Logowanie do konta</string>
-  <string name="registerStr">Zarejestruj się teraz</string>
+  <string name="registerStr">Rejestracja</string>
   <string name="logout">Wyloguj</string>
   <string name="year">Rok</string>
   <string name="month">Miesiąc</string>
@@ -195,8 +195,8 @@
   <string name="str_phone_loss_setting_fail">Wyłączono alarm rozłączenia</string>
   <string name="str_sync_waiting_notify">Aktualizacja ustawień opaski w toku</string>
   <string name="str_sync_suc_notify">Aktualizacja zakończona!</string>
-  <string name="str_sync_help_dialog_title">Po co czekać na połączenie z O-Band?</string>
-  <string name="str_sync_help_dialog_content">Telefon musi połączyć się z O-Band, aby uaktualnić ustawienia opaski; należy nawiazać połączenie Bluetooth</string>
+  <string name="str_sync_help_dialog_title">Dlaczego potrzebne jest połączenie?</string>
+  <string name="str_sync_help_dialog_content">Telefon musi połączyć się z O-Band, aby uaktualnić ustawienia opaski; Bluetooth musi być włączony.</string>
   <string name="str_sync_help_dialog_button">Uwaga</string>
   <string name="setting_target">Ustawienia celu</string>
   <string name="setting_person_info">Ustawienia danych osobistych</string>
@@ -233,11 +233,11 @@
   <string name="str_pair_bracelet">O-Band liczy kroki</string>
   <string name="str_pair_phone">Przenośny licznik kroków</string>
   <string name="str_set_bluetooth">Konfiguracja Bloetooth</string>
-  <string name="str_set_bluetooth_content">Należy uruchomić połączenie Bluetooth z O-Band. Czy jest aktywne?</string>
+  <string name="str_set_bluetooth_content">Należy nawiązać połączenie z O-Band. Włączyć Bluetooth?</string>
   <string name="str_set_bluetooth_open">WŁ</string>
   <string name="str_add_device">Dodaj O-Band</string>
   <string name="str_bluetooth_disconnect">Ponów</string>
-  <string name="str_bluetooth_connecting">Łączenie z...</string>
+  <string name="str_bluetooth_connecting">Łączenie...</string>
   <string name="str_bluetooth_connected">O-Band połączona</string>
   <string name="str_bluetooth_syncing">Synchronizacja...</string>
   <string name="str_update_justnow">Uaktualniono</string>
@@ -350,9 +350,9 @@
   <string name="str_notification_text_sport">Tryb sportu aktywny</string>
   <string name="str_notification_text_phone_sport">Telefon rozpoznaje utratę połączenia z O-Band</string>
   <string name="str_notification_text_mute">Włączono tryb snu O-Band, telefon został wyciszony</string>
-  <string name="str_notification_text_low_battery">Pozostało %s baterii O-Band, podłącz ładowarkę</string>
+  <string name="str_notification_text_low_battery">Bateria O-Band poniżej %s, podłącz ładowarkę</string>
   <string name="str_low_battery_dialog_title">Wskaźnik baterii O-Band</string>
-  <string name="str_low_battery_dialog_positive">Uwaga</string>
+  <string name="str_low_battery_dialog_positive">OK</string>
   <string name="agent_expire_title">Zalogowano</string>
   <string name="agent_expire_description1">Twoje konto </string>
   <string name="agent_expire_description2">Zmień hasło, aby zalogować się w dulife na innym telefonie komórkowym</string>
@@ -413,7 +413,7 @@
   <string name="str_buttom_connect_tips">Przy braku łączności informacje o ćwiczeniu rejestruje telefon</string>
   <string name="str_try_later">Spróbuję później</string>
   <string name="str_try_again">Połącz ponownie</string>
-  <string name="my_service">Moje usługi</string>
+  <string name="my_service">Zasoby online</string>
   <string name="sign_logo_text">Od</string>
   <string name="nfc_replace_title">Wskazówki</string>
   <string name="nfc_replace_content">Zastąpić bieżący ID NFC?</string>

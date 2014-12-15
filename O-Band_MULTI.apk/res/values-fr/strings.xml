@@ -352,7 +352,7 @@
   <string name="str_notification_text_mute">O-Band en mode Repos, mobile en mode Silencieux</string>
   <string name="str_notification_text_low_battery">%s de batterie restant dans le O-Band, veuillez le recharger</string>
   <string name="str_low_battery_dialog_title">Indicateur de batterie du O-Band</string>
-  <string name="str_low_battery_dialog_positive">Nota</string>
+  <string name="str_low_battery_dialog_positive">OK</string>
   <string name="agent_expire_title">Connecté</string>
   <string name="agent_expire_description1">Votre compte sur</string>
   <string name="agent_expire_description2">Pour vous connecter sur Dulife depuis un autre mobile ou pour d\'autres opérations, veuillez changer votre mot de passe dès que possible</string>
@@ -413,7 +413,7 @@
   <string name="str_buttom_connect_tips">Téléphone non lié, vos données d\'exercices seront obtenues par votre Mobile</string>
   <string name="str_try_later">Ré-essayer plus tard</string>
   <string name="str_try_again">Reconnecter</string>
-  <string name="my_service">Mes services</string>
+  <string name="my_service">Ressources en ligne</string>
   <string name="sign_logo_text">De </string>
   <string name="nfc_replace_title">Astuces</string>
   <string name="nfc_replace_content">Remplacer le NFC actuel</string>
